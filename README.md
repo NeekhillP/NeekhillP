@@ -1,14 +1,45 @@
-👋 Hi, I’m Nikhil Pandey (@NeekhillP)!
+# Hi, I'm Nikhil Pandey 👋
 
-👀 I have a passion for software development, machine learning, and contributing to open-source projects.
+**Computer Science Student • Software Developer • Backend & Full-Stack Enthusiast**
 
-🌱 Currently, I'm learning ReactJS and diving into the exciting world of backend development.
+I'm a Computer Science student from Nepal passionate about building practical software, learning how systems work under the hood, and continuously improving my engineering fundamentals.
 
-💞️ I’m eager to collaborate on innovative tech projects, especially those that leverage AI for social good. If you have an idea that can change the world, let’s team up and bring it to life!
+### 🚀 What I'm Working On
 
-📫 How to reach me: Feel free to drop me an email at neekhill123@gmail.com or connect with me on LinkedIn. I’m always open to networking and discussing new ideas.
+* 🔧 Building full-stack applications with **JavaScript/TypeScript, React, Next.js, Node.js, and databases**
+* 🛠️ Strengthening my **backend engineering** skills — authentication, authorization, APIs, databases, system design, and deployment
+* 🤖 Exploring **AI/ML** and learning how modern AI tools can be used effectively without replacing strong engineering fundamentals
+* 📚 Continuously improving my **data structures, computer science fundamentals, and software development practices**
+* 🌱 Open to collaborating on interesting **open-source and real-world projects**
 
-😄 Pronouns: He/Him
+### 🧰 Tech Stack
 
-⚡ Fun fact: Outside of coding, I love hiking, hitting the gym, and watching football—especially those thrilling midnight matches. 
+**Languages:** JavaScript • TypeScript • Python • SQL
 
+**Frontend:** React • Next.js • Tailwind CSS
+
+**Backend:** Node.js • Express • REST APIs
+
+**Database:** MongoDB • PostgreSQL
+
+**Tools:** Git • GitHub • Docker • AWS
+
+### 🎯 Current Goal
+
+I'm focused on becoming a well-rounded software engineer who can go from **understanding a problem → designing a solution → building it → deploying it → maintaining it**.
+
+I'm particularly interested in backend systems, scalable web applications, and the intersection of software engineering and AI.
+
+### 🤝 Let's Connect
+
+* 📧 **Email:** [neekhill123@gmail.com](mailto:neekhill123@gmail.com)
+* 💼 **LinkedIn:** [Connect with me on LinkedIn](https://www.linkedin.com/)
+* 🐙 **GitHub:** [@NeekhillP](https://github.com/NeekhillP)
+
+### ⚡ Beyond Code
+
+When I'm not coding, you'll probably find me **hiking, working out, or watching football** — especially a good late-night match. ⚽
+
+---
+
+*Always learning. Always building. Always improving.*
